@@ -46,6 +46,7 @@ for (my $i=0; $i <= @random.length; $i++) {
 # strip whitespace elements https://www.perlmonks.org/?node_id=124970
 @avengers = grep /\S/, @avengers;
 
+print "\n";
 print "Thanos: \"It was. And it was beautiful. Titan was like most planets. Too many mouths, not enough to go around. And when we faced extinction, I offered a solution.  At random. Dispassionate, fair. The rich and poor alike. And they called me a madman. And what I predicted, came to pass.\"\n\n";
 print "THE MAD TITAN SNAPS HIS FINGERS!\n";
 print "\n";
