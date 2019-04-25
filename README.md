@@ -27,10 +27,6 @@ perl the_mad_titan.pl
 
 # sample output from the script
 
-```
-perl the_mad_titan.pl
-```
-
 Thanos: "It was. And it was beautiful. Titan was like most planets. Too many mouths, not enough to go around. And when we faced extinction, I offered a solution.  At random. Dispassionate, fair. The rich and poor alike. And they called me a madman. And what I predicted, came to pass."
 
 THE MAD TITAN SNAPS HIS FINGERS!
