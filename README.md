@@ -8,7 +8,8 @@ A script that implements Thanos terrible will.
 To prepare myself for Avengers Endgame, and to have some fun I decided to write a script
 takes a list of people and at the snap of Thanos fingers, turns half of them to dust.  Because
 that's some crazy mad terrible code (to kill half of anyone in a list) it's written in Perl.  
-I don't mean any offense to Perl, I just thought it's a funny joke.
+
+I don't mean any offense to Perl, I just thought it's funnier to write this in Perl.
 
 Feel free to edit the script, add your friends to the list and see who lives and who is
 left to AVENGE the fallen!  I know a zillion people did this in some web app somewhere but
