@@ -24,3 +24,17 @@ Will work out of the box on any Mac and Ubuntu machine in the terminal:
 ```
 perl the_mad_titan.pl
 ```
+
+# sample output from the script
+
+```
+perl the_mad_titan.pl
+
+Thanos: "It was. And it was beautiful. Titan was like most planets. Too many mouths, not enough to go around. And when we faced extinction, I offered a solution.  At random. Dispassionate, fair. The rich and poor alike. And they called me a madman. And what I predicted, came to pass."
+
+THE MAD TITAN SNAPS HIS FINGERS!
+
+The people who become dust: [ "The Winter Soldier" "Spider-Man" "Captain America" "Bruce Banner" "Doctor Strange" "Drax" "Iron Man" "Mantis" "Thor"  ]
+
+Avengers Assemble! [ "War Machine" "Starlord" "Black Widow" "Black Panther" "Vision" "Rocket Racoon" "Scarlet Witch" "Groot" "Gamora"  ]
+```
